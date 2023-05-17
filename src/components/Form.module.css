@@ -1,0 +1,39 @@
+/** @format */
+
+.form-group {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  padding: 2rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.radio-group {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+}
+
+.btn {
+  align-self: center;
+  justify-self: center;
+  padding: 8px 10px;
+  margin-top: 30px;
+  border-radius: 10px;
+  border: none;
+}
+
+.radio-input {
+  display: flex;
+  width: 18%;
+  justify-content: space-between;
+}

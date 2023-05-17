@@ -1,0 +1,12 @@
+/** @format */
+.expense-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.expense-box button {
+  padding: 5px 20px;
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+/** @format */
+.select {
+  padding: 5px 20px;
+  background-color: antiquewhite;
+  font-weight: 600;
+}
+
+.select option {
+}
